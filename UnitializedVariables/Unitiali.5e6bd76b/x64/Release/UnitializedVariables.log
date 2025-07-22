@@ -1,0 +1,7 @@
+﻿  BasicProject.cpp
+  Generating code
+  1 of 10 functions (10.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UnitializedVariables.vcxproj -> C:\Users\ajeth\OneDrive\Documents\Coding\100-Days-of-cpp\UnitializedVariables\x64\Release\UnitializedVariables.exe

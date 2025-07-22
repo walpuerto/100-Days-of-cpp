@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\LessonQuiz1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218E4029-DC2F-405F-AEC0-1A4457FC0DEA}|LessonQuiz1.vcxproj|C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\LessonQuiz1\\BasicProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{218E4029-DC2F-405F-AEC0-1A4457FC0DEA}|LessonQuiz1.vcxproj|solutionrelative:BasicProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicProject.cpp",
+              "DocumentMoniker": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\LessonQuiz1\\BasicProject.cpp",
+              "RelativeDocumentMoniker": "BasicProject.cpp",
+              "ToolTip": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\LessonQuiz1\\BasicProject.cpp",
+              "RelativeToolTip": "BasicProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-21T02:14:07.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

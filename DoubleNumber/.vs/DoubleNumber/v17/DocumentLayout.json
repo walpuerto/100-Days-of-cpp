@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\DoubleNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464D01C6-F18E-4B57-A834-E6B225F308EE}|DoubleNumber.vcxproj|C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\DoubleNumber\\BasicProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{464D01C6-F18E-4B57-A834-E6B225F308EE}|DoubleNumber.vcxproj|solutionrelative:BasicProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicProject.cpp",
+              "DocumentMoniker": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\DoubleNumber\\BasicProject.cpp",
+              "RelativeDocumentMoniker": "BasicProject.cpp",
+              "ToolTip": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\DoubleNumber\\BasicProject.cpp",
+              "RelativeToolTip": "BasicProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-21T07:11:41.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
