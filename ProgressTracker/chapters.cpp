@@ -47,7 +47,7 @@ void chapter1()
 		"\n"
 		"Day 8: July 21, 2025\n"
 		"1.10 -- Introduction to expressions\n"
-		"1.11 -- Chapter 1 summary and quiz\n"
+		"1.x -- Chapter 1 summary and quiz\n"
 		"\n";
 }
 
@@ -68,5 +68,9 @@ void chapter2()
 		"2.10 -- Introduction to the preprocessor\n"
 		"2.11 -- Header files\n"
 		"2.12 -- Header guards\n"
+		"\n"
+		"Day 10: July 23, 2025\n"
+		"2.13 -- How to design your first programs\n"
+		"2.x -- Chapter 2 summary and quiz\n"
 		"\n";
 }

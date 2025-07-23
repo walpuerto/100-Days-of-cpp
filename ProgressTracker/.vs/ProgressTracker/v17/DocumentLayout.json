@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\ProgressTracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\ProgressTracker\\chapters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:chapters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\ProgressTracker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "chapters.cpp",
+              "DocumentMoniker": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\ProgressTracker\\chapters.cpp",
+              "RelativeDocumentMoniker": "chapters.cpp",
+              "ToolTip": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\ProgressTracker\\chapters.cpp",
+              "RelativeToolTip": "chapters.cpp",
+              "ViewState": "AgIAADgAAAAAMzMzMzMbwEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-23T02:26:07.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\ProgressTracker\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\ajeth\\OneDrive\\Documents\\Coding\\100-Days-of-cpp\\ProgressTracker\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-19T02:50:02.616Z",
               "EditorCaption": ""
