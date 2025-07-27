@@ -7,8 +7,10 @@ int main() {
 
 	// Call to display the chapters. (AI)
 	/*chapter0();
-	chapter1();*/
-	chapter2();
+	chapter1();
+	chapter2();*/
+
+	chapter3();
 	
 	return 0;
 }

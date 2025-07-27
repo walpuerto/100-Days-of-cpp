@@ -74,3 +74,15 @@ void chapter2()
 		"2.x -- Chapter 2 summary and quiz\n"
 		"\n";
 }
+
+void chapter3()
+{
+	std::cout << "Day 10: July 23, 2025\n"
+		"3.1 -- Syntax and semantic errors\n"
+		"3.2 -- The debugging process\n"
+		"3.3 -- A strategy for debugging\n"
+		"\n"
+		"Day 11: July 27, 2025\n"
+		"3.4 -- Basic debugging tactics\n"
+		"3.5 -- More debugging tactics\n";
+}

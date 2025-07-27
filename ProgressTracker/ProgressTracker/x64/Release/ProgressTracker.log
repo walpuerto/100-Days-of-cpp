@@ -1,6 +1,9 @@
-﻿  chapters.cpp
+﻿  calculate.cpp
+  chapters.cpp
+  main.cpp
+  title.cpp
   Generating code
-  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
   All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  ProgressTracker.vcxproj -> C:\Users\ajeth\OneDrive\Documents\Coding\100-Days-of-cpp\ProgressTracker\x64\Release\ProgressTracker.exe
+  ProgressTracker.vcxproj -> C:\Users\Admin\Documents\Coding\ProgressTracker\x64\Release\ProgressTracker.exe
