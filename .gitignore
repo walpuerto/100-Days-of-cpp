@@ -1,2 +1,3 @@
 *.ipch
 .vs/
+/ProgressTracker/.vs/ProgressTracker/v17/.suo
