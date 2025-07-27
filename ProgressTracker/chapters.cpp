@@ -86,5 +86,7 @@ void chapter3()
 		"3.4 -- Basic debugging tactics\n"
 		"3.5 -- More debugging tactics\n"
 		"3.6 -- Using an integrated debugger: Stepping\n"
-		"3.7 -- Using an integrated debugger: Running and breakpoints\n";
+		"3.7 -- Using an integrated debugger: Running and breakpoints\n"
+		"3.8 -- Using an integrated debugger: The call stack\n"
+		"\n";
 }
