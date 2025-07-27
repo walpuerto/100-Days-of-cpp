@@ -1,7 +1,8 @@
 #include "title.h"
 #include "chapters.h"
 
-int main() {
+int main()
+{
 	// Display the title of the program. (AI)
 	displayTitle();
 
@@ -11,6 +12,6 @@ int main() {
 	chapter2();*/
 
 	chapter3();
-	
+
 	return 0;
 }
