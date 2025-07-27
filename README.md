@@ -1,9 +1,12 @@
 # 100 Days of C++
 Writing programs for 100 days to learn C++. =D
 
-Guided by the great Learn C++ Website.
-https://www.learncpp.com
-
-I love learning code and I wanna use this to help you, me, and everyone! :D
+## Main Project
+You may wanna check [Progress Tracker](https://github.com/walpuerto/100-Days-of-cpp/tree/main/ProgressTracker) out if you're interested in cool C++ implementations! :D
+I primarily work on it in our tutorials.
 
 May this journey lead us starward!
+
+## Credits
+Guided by the great Learn C++ Website.
+https://www.learncpp.com
