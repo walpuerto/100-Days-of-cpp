@@ -1,5 +1,6 @@
 #include "title.h"
 #include "chapters.h"
+#include "calculate.h"
 
 int main()
 {
@@ -12,6 +13,8 @@ int main()
 	chapter2();*/
 
 	chapter3();
+
+	sillyCalculation();
 
 	return 0;
 }
