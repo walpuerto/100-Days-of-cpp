@@ -84,5 +84,6 @@ void chapter3()
 		"\n"
 		"Day 11: July 27, 2025\n"
 		"3.4 -- Basic debugging tactics\n"
-		"3.5 -- More debugging tactics\n";
+		"3.5 -- More debugging tactics\n"
+		"3.6 -- Using an integrated debugger: Stepping\n";
 }
