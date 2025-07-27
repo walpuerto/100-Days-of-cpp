@@ -7,5 +7,6 @@ I primarily work on it in our tutorials.
 
 May this journey lead us starward!
 
+## Credits
 Guided by the great Learn C++ Website.
 https://www.learncpp.com
