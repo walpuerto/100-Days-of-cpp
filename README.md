@@ -1,5 +1,5 @@
 # 100 Days of C++
-Learning C++ by writing programs everyday for the next 100 days. =D
+Writing programs for 100 days to learn C++. =D
 
 Guided by the great Learn C++ Website.
 https://www.learncpp.com
