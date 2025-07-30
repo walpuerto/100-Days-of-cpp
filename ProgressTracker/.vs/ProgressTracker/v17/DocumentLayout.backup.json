@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:chapters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:chapters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,19 +57,19 @@
               "RelativeDocumentMoniker": "chapters.cpp",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.cpp",
               "RelativeToolTip": "chapters.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-27T12:49:58.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp",
+              "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-19T02:50:02.616Z",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "chapters.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.h",
               "RelativeDocumentMoniker": "chapters.h",

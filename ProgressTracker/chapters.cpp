@@ -114,5 +114,6 @@ void chapter4()
 	std::cout << "Day 14: July 30, 2025\n"
 		"4.10 -- Introduction to if statements\n"
 		"4.11 -- Chars\n"
-		"4.12 -- Introduction to type conversion and static_cast\n";
+		"4.12 -- Introduction to type conversion and static_cast\n"
+		"4.x -- Chapter 4 summary and quiz\n";
 }
