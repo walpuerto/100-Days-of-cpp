@@ -13,7 +13,10 @@ void chapter2();
 // Call to display the next 12 subchapters and one quiz of the program.
 void chapter3();
 
-// Call to display the latest subchapters studied by the author.
+// Call to display the next 12 subchapters and one quiz of the program.
 void chapter4();
+
+// Call to display the latest subchapters studied by the author.
+void chapter5();
 
 #endif CHAPTERS_H
