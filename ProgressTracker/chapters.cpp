@@ -90,5 +90,29 @@ void chapter3()
 		"3.8 -- Using an integrated debugger: Watching variables\n"
 		"3.9 -- Using an integrated debugger: The call stack\n"
 		"3.10 -- Finding issues before they become problems\n"
+		"\n"
+		"Day 12: July 28, 2025\n"
+		"3.x -- Chapter 3 summary and quiz\n"
 		"\n";
+}
+
+void chapter4()
+{
+	std::cout << "Day 12: July 28, 2025\n"
+		"4.1 -- Introduction to fundamental data types\n"
+		"4.2 -- Void\n"
+		"4.3 -- Object sizes and the sizeof operator\n"
+		"4.4 -- Integers\n"
+		"\n";
+	std::cout << "Day 13: July 29, 2025\n"
+		"4.5 -- Unsigned integers, and why to avoid them\n"
+		"4.6 -- Fixed-width integers and size_t\n"
+		"4.7 -- Introduction to scientific notation\n"
+		"4.8 -- Floating point numbers\n"
+		"4.9 -- Boolean values\n"
+		"\n";
+	std::cout << "Day 14: July 30, 2025\n"
+		"4.10 -- Introduction to if statements\n"
+		"4.11 -- Chars\n"
+		"4.12 -- Introduction to type conversion and static_cast\n";
 }

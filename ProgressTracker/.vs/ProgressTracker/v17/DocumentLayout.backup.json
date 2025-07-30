@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:chapters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:calculate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,39 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "calculate.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\calculate.cpp",
               "RelativeDocumentMoniker": "calculate.cpp",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\calculate.cpp",
               "RelativeToolTip": "calculate.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-27T12:51:50.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "chapters.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.cpp",
               "RelativeDocumentMoniker": "chapters.cpp",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.cpp",
               "RelativeToolTip": "chapters.cpp",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-27T12:49:58.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-19T02:50:02.616Z",
               "EditorCaption": ""
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "chapters.h",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.h",
               "RelativeToolTip": "chapters.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-27T05:07:57.449Z",
               "EditorCaption": ""

@@ -1,6 +1,5 @@
 #include "title.h"
 #include "chapters.h"
-#include "calculate.h"
 
 int main()
 {
@@ -10,11 +9,10 @@ int main()
 	// Call to display the chapters. (AI)
 	/*chapter0();
 	chapter1();
-	chapter2();*/
+	chapter2();
+	chapter3();*/
 
-	chapter3();
-
-	sillyCalculation();
+	chapter4();
 
 	return 0;
 }
