@@ -122,5 +122,13 @@ void chapter4()
 void chapter5()
 {
 	std::cout << "Day 14: July 30, 2025\n"
-		"5.1 -- Constant variables (named constants)\n";
+		"5.1 -- Constant variables (named constants)\n"
+		"\n";
+	std::cout << "Day 15: July 31, 2025\n"
+		"5.2 -- Literals\n"
+		"5.3 -— Numeral systems (decimal, binary, hexadecimal, and octal)\n"
+		"5.4 —- The as-if rule and compile-time optimization\n"
+		"5.5 —- Constant expressions\n"
+		"5.6 —- Constexpr variables\n"
+		"\n";
 }
