@@ -135,5 +135,7 @@ void chapter5()
 		"5.7 -- Introduction to std::string\n"
 		"5.8 -— Introduction to std::string_view\n"
 		"5.9 -— std::string_view (part 2)\n"
-		"5.x -- Chapter 5 summary and quiz\n";
+		"5.x -- Chapter 5 summary and quiz\n"
+		"6.1 -— Operator precedence and associativity\n"
+		"\n";
 }
