@@ -131,4 +131,6 @@ void chapter5()
 		"5.5 —- Constant expressions\n"
 		"5.6 —- Constexpr variables\n"
 		"\n";
+	std::cout << "Day 16: August 1, 2025\n"
+		"5.7 -- Introduction to std::string\n";
 }
