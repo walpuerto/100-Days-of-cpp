@@ -134,5 +134,6 @@ void chapter5()
 	std::cout << "Day 16: August 1, 2025\n"
 		"5.7 -- Introduction to std::string\n"
 		"5.8 -— Introduction to std::string_view\n"
-		"5.9 -— std::string_view (part 2)\n";
+		"5.9 -— std::string_view (part 2)\n"
+		"5.x -- Chapter 5 summary and quiz\n";
 }
