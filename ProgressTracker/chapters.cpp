@@ -138,4 +138,9 @@ void chapter5()
 		"5.x -- Chapter 5 summary and quiz\n"
 		"6.1 -— Operator precedence and associativity\n"
 		"\n";
+	std::cout << "Day 17: August 2, 2025 (UPCAT Test Day)\n"
+		"6.4 -— Increment/decrement operators, and side effects\n"
+		"6.5 —- The comma operator\n"
+		"6.6 —- The conditional operator\n"
+		"\n";
 }
