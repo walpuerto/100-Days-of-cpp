@@ -136,11 +136,19 @@ void chapter5()
 		"5.8 -— Introduction to std::string_view\n"
 		"5.9 -— std::string_view (part 2)\n"
 		"5.x -- Chapter 5 summary and quiz\n"
+		"\n";
+}
+
+void chapter6()
+{
+	std::cout << "Day 16: August 1, 2025\n"
 		"6.1 -— Operator precedence and associativity\n"
 		"\n";
 	std::cout << "Day 17: August 2, 2025 (UPCAT Test Day)\n"
 		"6.4 -— Increment/decrement operators, and side effects\n"
 		"6.5 —- The comma operator\n"
 		"6.6 —- The conditional operator\n"
+		"6.7 —- Relational operators and floating point comparisons\n"
+		"6.8 —- Logical operators\n"
 		"\n";
 }
