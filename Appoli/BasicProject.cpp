@@ -14,15 +14,13 @@ std::string_view getQuantityPhrase(int quantity)
         return "a couple of";
     if (quantity == 3)
         return "a few";
-    if (quantity > 3)
-        return "many";
-    return "";
+    return "many";
 }
 
 // Write the function getApplesPluralized() here
 std::string_view getApplesPluralized(int quantity)
 {
-    return ((quantity == 1) ? "apple" : "apples");
+    return (quantity == 1) ? "apple" : "apples";
 }
 
 
