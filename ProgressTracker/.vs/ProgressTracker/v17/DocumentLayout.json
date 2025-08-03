@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "chapters.cpp",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.cpp",
               "RelativeToolTip": "chapters.cpp",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-27T12:49:58.095Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-19T02:50:02.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T02:50:02.616Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "chapters.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-27T05:07:57.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T05:07:57.449Z"
             }
           ]
         }

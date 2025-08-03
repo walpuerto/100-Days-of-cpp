@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:chapters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:chapters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8DE0755-497A-4D74-9F25-21D48A060E5D}|ProgressTracker.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "chapters.cpp",
               "ToolTip": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.cpp",
               "RelativeToolTip": "chapters.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAKMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-27T12:49:58.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "chapters.h",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\Coding\\ProgressTracker\\chapters.h",
               "RelativeDocumentMoniker": "chapters.h",

@@ -161,5 +161,6 @@ void chapterO()
 	std::cout << "Day 18: August 3. 2025\n"
 		"O.1 -- Bit flags and bit manipulation via std::bitset\n"
 		"O.2 -- Bitwise operators\n"
+		"O.3 -- Bit manipulation with bitwise operators and bit masks\n"
 		"\n";
 }
