@@ -162,5 +162,6 @@ void chapterO()
 		"O.1 -- Bit flags and bit manipulation via std::bitset\n"
 		"O.2 -- Bitwise operators\n"
 		"O.3 -- Bit manipulation with bitwise operators and bit masks\n"
+		"O.4 -- Converting integers between binary and decimal representation\n"
 		"\n";
 }
