@@ -4,10 +4,7 @@
 // "rotl" stands for "rotate left"
 std::bitset<4> rotl(std::bitset<4> bits)
 {
-	// Your code here
-	const std::bitset<4> firstBits{ bits >> 3 };
-	bits <<= 1;
-	return bits | firstBits;
+	return (bits <<= 1) | (bits >> 3);
 }
 
 int main()
