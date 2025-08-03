@@ -151,4 +151,7 @@ void chapter6()
 		"6.7 —- Relational operators and floating point comparisons\n"
 		"6.8 —- Logical operators\n"
 		"\n";
+	std::cout << "Day 18: August 3, 2025\n"
+		"6.x -- Chapter 5 summary and quiz\n"
+		"\n";
 }
